@@ -1,0 +1,52 @@
+[
+    {
+        "nom": "Ma biere 1",
+        "brasserie": "Une brasserie",
+        "description": "Lorem ipsum"
+    },
+    {
+        "nom": "Ma biere 2",
+        "brasserie": "Une brasserie",
+        "description": "Lorem ipsum"
+    },
+    {
+        "nom": "Ma biere3",
+        "brasserie": "Une brasserie",
+        "description": "Lorem ipsum"
+    },
+    {
+        "nom": "Ma biere4",
+        "brasserie": "Une brasserie",
+        "description": "Lorem ipsum"
+    },
+    {
+        "nom": "Ma biere5",
+        "brasserie": "Une brasserie",
+        "description": "Lorem ipsum"
+    },
+    {
+        "nom": "Ma biere6",
+        "brasserie": "Une brasserie",
+        "description": "Lorem ipsum"
+    },
+    {
+        "nom": "Ma biere7",
+        "brasserie": "Une brasserie",
+        "description": "Lorem ipsum"
+    },
+    {
+        "nom": "Ma biere8",
+        "brasserie": "Une brasserie",
+        "description": "Lorem ipsum"
+    },
+    {
+        "nom": "Ma biere9",
+        "brasserie": "Une brasserie",
+        "description": "Lorem ipsum"
+    },
+    {
+        "nom": "Ma biere10",
+        "brasserie": "Une brasserie",
+        "description": "Lorem ipsum"
+    }
+]
